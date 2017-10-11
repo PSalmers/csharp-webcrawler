@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FinalCrawlerApp", "FinalCrawlerApp\FinalCrawlerApp.csproj", "{DA833319-6B00-4AD9-B306-3147E60E9EB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		3 deep|Any CPU = 3 deep|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA833319-6B00-4AD9-B306-3147E60E9EB8}.3 deep|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA833319-6B00-4AD9-B306-3147E60E9EB8}.3 deep|Any CPU.Build.0 = Debug|Any CPU
+		{DA833319-6B00-4AD9-B306-3147E60E9EB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA833319-6B00-4AD9-B306-3147E60E9EB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA833319-6B00-4AD9-B306-3147E60E9EB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA833319-6B00-4AD9-B306-3147E60E9EB8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0ECEB431-7B4F-44CC-8694-051EB8F89AEF}
+	EndGlobalSection
+EndGlobal

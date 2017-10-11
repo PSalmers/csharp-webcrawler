@@ -1,0 +1,1 @@
+Run the exe from the command line with the arguments "seedUrl", maxRecursionDepth, maxLinksPerPage(0 for unlimited)
